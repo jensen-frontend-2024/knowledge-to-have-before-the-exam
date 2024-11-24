@@ -41,7 +41,7 @@ _Kunskap i att använda grundläggande SQL-kommandon för CRUD-operationer (Crea
 
 Ni ska kunna utföra och tolka..
 
-- ..grundläggande SELECT-queries
+- ..grundläggande SELECT-queries inklusive JOIN
 - ..grundläggande INSERT-queries
 - ..grundläggande UPDATE-queries
 - ..grundläggande DELETE-queries
