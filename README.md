@@ -52,6 +52,8 @@ _Kännedom om vanliga säkerhetsrisker i databaser, som t.ex. SQL-injection._
 
 - Allmän kunskap om säkerthetsrisker, SQL-injection framför allt.
 
+[Tips på läsning om SQL injection](https://portswigger.net/web-security/sql-injection)
+
 ## Kravspec 6
 
 _Grundläggande kunskap om dataöverföring över nätverk och användning av HTTP-protokollet._
@@ -80,7 +82,7 @@ _Förståelse för REST-arkitekturens principer och dess tillämpningar._
 
 _Grundläggande färdigheter i att bygga och säkerställa säker databasinteraktion, inklusive autentisering, lösenordshantering och rollbaserad åtkomst._
 
-- Allmänt om vad autentisering och rollbaserad åtkomst är och hur vi kan implementera det. 
+- Allmänt om vad autentisering och rollbaserad åtkomst är och hur vi kan implementera det.
 
 ## Kravspec 10
 
